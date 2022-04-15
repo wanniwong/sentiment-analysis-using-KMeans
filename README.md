@@ -2,7 +2,7 @@
 
 Social media has been an important source to understand people's sentiment. This project is aimed to scrape tweet data from Twitter and proposs suitable data cleaning and feature extraction steps for further sentiment clustering.
 
-(1) Web scraping - Scrape tweet data from Twitter (Please refer [**web_scraping.ipynb**](web_scraping.ipynb))
+(1) Web scraping - Scrape tweet data about global warming from Twitter (Please refer [**web_scraping.ipynb**](web_scraping.ipynb))
 
 (2) Data normalization - Cleaning and stemming (Please refer [**data_normalization.ipynb**](data_normalization.ipynb))
 
