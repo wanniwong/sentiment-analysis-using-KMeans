@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis of Global Warming using K-means Clustering from Scratch 
+# Twitter Sentiment Analysis using K-means Clustering from Scratch 
 
 Social media has been an important source to understand people's sentiment. This project is aimed to scrape tweet data from Twitter and proposs suitable data cleaning and feature extraction steps for further sentiment clustering.
 
